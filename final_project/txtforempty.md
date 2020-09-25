@@ -1,1 +1,0 @@
-text for empty directory
